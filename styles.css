@@ -1,2 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.abc{
+    max-width: 600px;
+    margin: 10px;
+    padding: 15px;
+    border-left: 8px solid green;
+    background-color: #f8fffe;
+    font-weight: bold;
 
-/* Your CSS Code here. */
+}
+.b1{
+    padding-bottom: 20px;
+}
